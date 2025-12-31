@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am a third year CSE student <br>i am now learning DSA in deep
+I am a third-year engineering student with a strong interest in software development and problem solving. Currently, I am learning Data Structures and Algorithms in depth to improve my logical thinking and coding efficiency. I enjoy working with Java and building real-world applications using core concepts such as Object-Oriented Programming, the Collection Framework, and Multithreading.
+I have hands-on experience developing Java-based mini projects, including a Student Management System, Bank Management System, and a Boat Ticket Booking System using GUI. Along with Java, I am familiar with languages like Python, C, and C++, and I use tools such as Git, GitHub, VS Code, and Eclipse for development and version control.
+I am motivated to grow as a Java backend developer and continuously work on improving my skills through coding practice, projects, and learning new technologies.
 
 
 ## 🌐 Socials:
