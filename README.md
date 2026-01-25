@@ -1,3 +1,32 @@
+# Hi 👋, I'm Vitthal Kadam  
+
+🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
+
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **Java & DSA**
+- 🌱 Learning **Java, JavaScript, HTML, CSS**
+- 💬 Ask me about **Java, OOP, Git**
+- 📫 How to reach me: **your-email@gmail.com**
+
+---
+
+## 🛠️ Skills
+- **Languages:** Java, JavaScript  
+- **Frontend:** HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** OOP, DSA, Sorting Algorithms  
+
+---
+
+## 📂 Projects
+- 📌 **Crop Detection System**
+- 📌 **Expense Tracker Web App**
+- 📌 **Sorting Algorithms in Java**
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitthal-kadam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitthalvkadam@gmail.com) 
