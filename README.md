@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Vitthal Kadam  
 
-<!--
-**vitthal-eng/vitthal-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on **Java & DSA**
+- 🌱 Learning **nodejs, JavaScript, Telwind-CSS**
+- 💬 Ask me about **Java, OOP, Git, HTML, CSS, C++ ,Python**
+- 📫 How to reach me: **vitthalvkadam@gmail.com**
+
+---
+
+## 🛠️ Skills
+- **Languages:** Java, JavaScript, python, c, c++  
+- **Frontend:** HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** OOP, DSA, Sorting Algorithms  
+
+---
+
+## 📂 Projects
+- 📌 **Crop Detection System**
+- 📌 **Expense Tracker Web App**
+- 📌 **Blood Bank Management System**
+
+---
+
+## 📊 GitHub Stats
+![Vitthal's GitHub stats](https://github-readme-stats.vercel.app/api?vitthal-eng=your-vitthal-eng&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vitthal-eng=your-vitthal-eng&layout=compact)
+
+---
+
+## 🤝 Connect with Me
+- GitHub: https://github.com/your-vitthal-eng
+- LinkedIn: https://linkedin.com/in/vitthal kadam
