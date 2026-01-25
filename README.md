@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Java & DSA**
-- 🌱 Learning **nodejs, JavaScript, Telwind-CSS**
+- 🔭 Currently working on **Advance Java & DSA**
+- 🌱 Learning **node js, JavaScript, Telwind CSS**
 - 💬 Ask me about **Java, OOP, Git, HTML, CSS, C++ ,Python**
 - 📫 How to reach me: **vitthalvkadam@gmail.com**
 
@@ -16,14 +16,15 @@
 - **Languages:** Java, JavaScript, python, c, c++  
 - **Frontend:** HTML, CSS  
 - **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, DSA, Sorting Algorithms  
+- **Concepts:** OOP, DSA, Sorting Algorithms, Searching Algorithim
 
 ---
 
 ## 📂 Projects
 - 📌 **Crop Detection System**
-- 📌 **Expense Tracker Web App**
+- 📌 **Expense Tracker system**
 - 📌 **Blood Bank Management System**
+- 📌 **Student Management System**
 
 ---
 
@@ -39,4 +40,4 @@
 
 ## 🤝 Connect with Me
 - GitHub: https://github.com/vitthal-eng
-- LinkedIn: https://linkedin.com/in/
+- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/vitthal-kadam-b83110273?
