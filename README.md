@@ -1,22 +1,26 @@
 # Hi 👋, I'm Vitthal Kadam 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vitthal+Kadam;Java+Developer;Learning+Full+Stack+Development" />
-</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vitthal+Kadam;Java+Developer;DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Web" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vitthal-eng&label=views&color=6C63FF&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/vitthal-eng">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vitthal-kadam">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
+  </a>
+</p>
+
 
 
 🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
