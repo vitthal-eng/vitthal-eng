@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=vitthal-eng&label=views&color=6C63FF&style=flat" />
 </p>
 
-<p align="center" style="background-color:"black">
+<p align="center" >
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
 </p>
 
