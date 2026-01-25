@@ -38,5 +38,5 @@
 ---
 
 ## 🤝 Connect with Me
-- GitHub: https://github.com/your-vitthal-eng
-- LinkedIn: https://linkedin.com/in/vitthal kadam
+- GitHub: https://github.com/vitthal-eng
+- LinkedIn: https://linkedin.com/in/
