@@ -39,5 +39,12 @@
 ---
 
 ## 🤝 Connect with Me
-- GitHub: https://github.com/vitthal-eng
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/vitthal-kadam-b83110273?
+## 🤝 Connect with Me
+
+<a href="https://github.com/vitthal-eng" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
