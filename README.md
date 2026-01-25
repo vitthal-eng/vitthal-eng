@@ -3,14 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vitthal+Kadam;Java+Developer;Learning+Full+Stack+Development" />
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=ff69b4&style=flat" />
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400"/>
 </p>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vitthal+Kadam;Java+Developer;DSA+Learner" />
 </h1>
