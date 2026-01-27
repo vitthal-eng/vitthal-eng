@@ -21,18 +21,18 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 Currently working on **Java & DSA**
-- 🌱 Learning **Java, JavaScript, HTML, CSS**
+- 🔭 Currently working on **Java, DSA & Development**
+- 🌱 Learning **Advanced Java, node js, Telwind CSS**
 - 💬 Ask me about **Java, OOP, Git**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **vitthalvkadam@gmail.com**
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Java, JavaScript  
+- **Languages:** Java, JavaScript, python, c, c++  
 - **Frontend:** HTML, CSS  
 - **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, DSA, Sorting Algorithms  
+- **Concepts:** OOP, DSA, Sorting Algorithms, Searching Algorithims etc.
 
 ---
 
