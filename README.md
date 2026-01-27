@@ -48,6 +48,10 @@
   <a href="https://github.com/vitthal-eng">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34"/>
   </a>
+<p align="center">
+  <a href="vitthalvkadam@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="34"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/vitthal-kadam">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
