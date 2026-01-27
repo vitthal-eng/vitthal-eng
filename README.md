@@ -43,11 +43,10 @@
 
 
 ## 🌐 Socials:
-<p align="center>
  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitthalvkadam@gmail.com)
-</p>
+
 <p align="center">
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitthalvkadam@gmail.com)
   <a href="https://github.com/vitthal-eng">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34"/>
   </a>
