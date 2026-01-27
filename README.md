@@ -23,9 +23,9 @@
 
 
 
-🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
 
 ---
+🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
 
 ## 🚀 About Me
 - 🔭 Currently working on **Java & DSA**
