@@ -1,8 +1,7 @@
  
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=200&section=header&text=Vitthal%20Kadam&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</h1>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitthal-eng&label=views&color=6C63FF&style=flat" />
