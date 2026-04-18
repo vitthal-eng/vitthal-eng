@@ -3,7 +3,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Future+Full+Stack+Engineer;Building+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Learner;Building+Projects" />
 </p>
 
 ---
