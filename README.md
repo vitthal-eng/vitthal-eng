@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Web" /> </h1>
 
 <p align="center">
-  <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Vitthal&backgroundColor=b6e3f4,c0aede,d1d4f9" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFAB&background=00000000&center=true&vCenter=true&width=600&lines=class+VitthalKadam+%7B;++++String+role+%3D+%22Java+Developer%22;++++String+skills+%3D+%22DSA+%2B+Web+Dev%22;++++void+build()+%7B;++++++++System.out.println(%22Hello+World!%22);++++%7D;%7D" />
 </p>
 
 <p align="center">
