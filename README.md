@@ -1,101 +1,69 @@
-<!-- HEADER (WAVE + NAME) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Vitthal%20Kadam&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+ 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Web" />
+</h1>
 
-<!-- TYPING INTRO -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Learner;Building+Projects" />
+  <img src="https://komarev.com/ghpvc/?username=vitthal-eng&label=views&color=6C63FF&style=flat" />
 </p>
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
+</p>
+
+
+
+
+
+---
+<p align="center">
+ 🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
+</p>
+
+## 🚀 About Me
+- 🔭 Currently working on **Java, DSA & Development**
+- 🌱 Learning **Advanced Java, node js, Telwind CSS**
+- 💬 Ask me about **Java, OOP, Git**
+- 📫 How to reach me: **vitthalvkadam@gmail.com**
 
 ---
 
-<!-- ABOUT SECTION -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-🎓 Student | 💻 Java Developer | 🚀 Future Full Stack Engineer  
-</p>
-
-<p align="center">
-🔭 Working on <b>Java, DSA & Web Development</b> <br>
-🌱 Learning <b>Advanced Java, Node.js, Tailwind CSS</b> <br>
-💬 Ask me about <b>Java, OOP, Git</b> <br>
-📫 Contact: <b>vitthalvkadam@gmail.com</b>
-</p>
+## 🛠️ Skills
+- **Languages:** Java, JavaScript, python, c, c++  
+- **Frontend:** HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** OOP, DSA, Sorting Algorithms, Searching Algorithims etc.
 
 ---
 
-<!-- ANIMATED CODE SECTION -->
-<h2 align="center">💻 Developer Console</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00FFAB&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Vitthal+Kadam;%24+role;Java+Developer;%24+skills;DSA+%7C+Full+Stack;%24+status;Building+Projects+🚀" />
-</p>
+## 📂 Projects
+- 📌 **Crop Detection System**
+- 📌 **Expense Tracker Web App**
+- 📌 **Sorting Algorithms in Java**
 
 ---
 
-<!-- SKILLS -->
-<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,nodejs,git,github,vscode" />
-</p>
+## 🌐 Socials:
+ 
 
----
-
-<!-- PROJECTS -->
-<h2 align="center">📂 Projects</h2>
-
-<div align="center">
-
-| Project | Description |
-|--------|------------|
-| 🌾 Crop Detection System | ML-based crop prediction |
-| 💰 Expense Tracker | Web app to manage expenses |
-| 🔢 Sorting Visualizer | Java-based DSA project |
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitthal-eng&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitthal-eng&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthal-eng&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- TROPHIES -->
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitthal-eng&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- SOCIALS -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:vitthalvkadam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitthalvkadam@gmail.com)
+<p>
+  
+  
   <a href="https://linkedin.com/in/vitthal-kadam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
   </a>
 </p>
+<br>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vitthal-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vitthal-eng&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitthal-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+[![](https://visitcount.itsvg.in/api?id=vitthal-eng&icon=0&color=0)](https://visitcount.itsvg.in)
