@@ -1,14 +1,8 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Web" /> </h1>
 
-<!-- Coding Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00FFAB&center=true&vCenter=true&width=600&lines=class+VitthalKadam+%7B;++++Java+Developer;++++DSA+Learner;++++Building+Cool+Projects+🚀;%7D" />
-</p>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450"/>
-</p>
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
