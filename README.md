@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
- 🎓 Student | 💻 Java Developer | 🌱 Learning Full Stack  
+ 🎓 Student | 💻 Java  | 🌱 Learning Dev  
 </p>
 
 ## 🚀 About Me
@@ -33,14 +33,14 @@
 - **Languages:** Java, JavaScript, python, c, c++  
 - **Frontend:** HTML, CSS  
 - **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, DSA, Sorting Algorithms, Searching Algorithims etc.
+- **Concepts:** OOP, DSA, Sorting Algorithms, Searching Algorithims, rescursion etc.
 
 ---
 
 ## 📂 Projects
 - 📌 **Crop Detection System**
 - 📌 **Expense Tracker Web App**
-- 📌 **Sorting Algorithms in Java**
+- 📌 **Blood bank management system**
 
 ---
 
@@ -61,7 +61,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,js,python,nodejs,git,github,php" />
 </p>
 # 📊 GitHub Stats:
 <h2 align="center">📊 GitHub Stats</h2>
