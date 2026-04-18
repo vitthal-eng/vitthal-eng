@@ -1,4 +1,6 @@
- 
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitthal-eng&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
