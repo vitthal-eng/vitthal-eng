@@ -1,6 +1,6 @@
- 
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Vitthal+Kadam;Java+Developer;DSA+Enthusiast;Building+Cool+Things+🚀" />
 </h1>
 
 <p align="center">
