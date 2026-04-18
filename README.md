@@ -1,7 +1,8 @@
-
+ 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Vitthal+Kadam;Java+Developer;DSA+Enthusiast;Building+Cool+Things+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=200&section=header&text=Vitthal%20Kadam&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitthal-eng&label=views&color=6C63FF&style=flat" />
