@@ -1,6 +1,9 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Web" /> </h1>
 
-
+<!-- Animated Developer Console -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFAB&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Vitthal+Kadam;%24+role;Java+Developer;%24+skills;DSA+%7C+Full+Stack;%24+status;Building+awesome+projects+🚀" />
+</div>
 
 
 <p align="center">
