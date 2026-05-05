@@ -53,17 +53,3 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,js,python,nodejs,git,github,php" />
 </p>
-# 📊 GitHub Stats:
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitthal-eng&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitthal-eng&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthal-eng&layout=compact&theme=tokyonight" />
-</p>
